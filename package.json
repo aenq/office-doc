@@ -1,0 +1,14 @@
+{
+  "name": "office-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "doc": "docsify serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "docsify": "^4.13.1"
+  }
+}
