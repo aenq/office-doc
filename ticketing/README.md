@@ -1,9 +1,11 @@
-# Seller
-Terdapat 3 fitur pada menu Seller.
+# Ticketing
+
+Terdapat 3 fitur pada menu Ticketing.
 
 Please find below the documentation for each of them:
-> [**Master Seller**](/seller/master-seller//)
 
-> [**Verifikasi Seller**](/seller/verifikasi-seller/)
+> [**Paket Bermasalah**](/ticketing/paket-bermasalah/)
 
-> [**Monitoring**](/seller/monitoring-seller/)
+> [**Ticketing**](/ticketing/ticket/)
+
+> [**CLaim**](/ticketing/claim/)

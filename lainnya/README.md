@@ -1,9 +1,9 @@
-# Seller
-Terdapat 3 fitur pada menu Seller.
+# Lainnya
+
+Terdapat 2 fitur pada menu Lainnya.
 
 Please find below the documentation for each of them:
-> [**Master Seller**](/seller/master-seller//)
 
-> [**Verifikasi Seller**](/seller/verifikasi-seller/)
+> [**Kritik & Saran**](/lainnya/kritik-saran/)
 
-> [**Monitoring**](/seller/monitoring-seller/)
+> [**Code Referal**](/lainnya/code-referal/)

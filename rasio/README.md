@@ -1,9 +1,9 @@
 # Rasio
-Terdapat 3 fitur pada menu Seller.
+
+Terdapat 2 fitur pada menu Rasio.
 
 Please find below the documentation for each of them:
-> [**Master Seller**](/seller/master-seller//)
 
-> [**Verifikasi Seller**](/seller/verifikasi-seller/)
+> [**Rasio Member**](/rasio/rasio-member/)
 
-> [**Monitoring**](/seller/monitoring-seller/)
+> [**Rasio Ekspedisi**](/rasio/rasio-ekspedisi/)

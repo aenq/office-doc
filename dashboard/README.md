@@ -10,5 +10,5 @@ Gets you notified when new versions of your Docker containers are available and 
 > `TRIGGERS` perform actions when updates are available
 
 ## Dashboard Office Interface
-![image](../ui/ui.png)
+![image](dashboard.png)
 

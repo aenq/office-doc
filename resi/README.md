@@ -1,9 +1,15 @@
-# Seller
-Terdapat 3 fitur pada menu Seller.
+# Resi
+
+Terdapat 5 fitur pada menu Resi.
 
 Please find below the documentation for each of them:
-> [**Master Seller**](/seller/master-seller//)
 
-> [**Verifikasi Seller**](/seller/verifikasi-seller/)
+> [**List Resi**](/resi/list-resi/)
 
-> [**Monitoring**](/seller/monitoring-seller/)
+> [**SLA Order to Drop Off**](/resi/sla-dropoff/)
+
+> [**SLA Order to Pick Up**](/resi/sla-pickup/)
+
+> [**SLA Order to Delivery**](/resi/sla-delivery/)
+
+> [**SLA Retur**](/resi/sla-retur/)

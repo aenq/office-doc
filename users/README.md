@@ -1,6 +1,7 @@
 # Users
+
 Gets you notified when new versions of your Docker containers are available and lets you react the way you want.
 
 ## Management Users
-![image](../ui/ui.png)
 
+![image](management-user.png)
