@@ -2,8 +2,8 @@
 
 Terdapat 2 fitur pada menu Rasio.
 
-Please find below the documentation for each of them:
+Dokumentasi dapat dilihat pada menu berikut:
 
-> [**Rasio Member**](/rasio/rasio-member/)
+### [1. Rasio Member](/rasio/rasio-member/)
 
-> [**Rasio Ekspedisi**](/rasio/rasio-ekspedisi/)
+### [2. Rasio Ekspedisi](/rasio/rasio-ekspedisi/)

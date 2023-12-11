@@ -2,17 +2,10 @@
 
 Terdapat 3 fitur pada menu Seller.
 
-Please find below the documentation for each of them:
+Dokumentasi dapat dilihat pada menu berikut:
 
-> [**Master Seller**](/seller/master-seller/)
+### [1. Master Seller](/seller/master-seller/)
 
-![image](master-seller/master-seller.png)
-![image](master-seller/master-seller-filter.png)
+### [2. Verifikasi Seller](/seller/verifikasi-seller/)
 
-> [**Verifikasi Seller**](/seller/verifikasi-seller/)
-
-![image](verifikasi-seller/verifikasi-seller.png)
-
-> [**Monitoring**](/seller/monitoring-seller/)
-
-![image](monitoring-seller/monitoring-seller.png)
+### [3. Monitoring](/seller/monitoring-seller/)
