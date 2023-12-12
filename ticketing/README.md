@@ -2,10 +2,10 @@
 
 Terdapat 3 fitur pada menu Ticketing.
 
-Please find below the documentation for each of them:
+Dokumentasi dapat dilihat pada menu berikut:
 
-> [**Paket Bermasalah**](/ticketing/paket-bermasalah/)
+### [1. Paket Bermasalah](/ticketing/paket-bermasalah/)
 
-> [**Ticketing**](/ticketing/ticket/)
+### [2. Ticketing](/ticketing/ticket/)
 
-> [**CLaim**](/ticketing/claim/)
+### [3. Claim](/ticketing/claim/)

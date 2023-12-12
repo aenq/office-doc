@@ -2,8 +2,8 @@
 
 Terdapat 2 fitur pada menu Lainnya.
 
-Please find below the documentation for each of them:
+Dokumentasi dapat dilihat pada menu berikut:
 
-> [**Kritik & Saran**](/lainnya/kritik-saran/)
+### [1. Kritik & Saran](/lainnya/kritik-saran/)
 
-> [**Code Referal**](/lainnya/code-referal/)
+### [2. Code Referal](/lainnya/code-referal/)
