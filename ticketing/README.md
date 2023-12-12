@@ -1,8 +1,8 @@
 # Ticketing
 
-Terdapat 3 fitur pada menu Ticketing.
+Terdapat 3 fitur yang tersedia pada menu Ticketing.
 
-Dokumentasi dapat dilihat pada menu berikut:
+Dokumentasi dapat ditemukan pada menu berikut:
 
 ### [1. Paket Bermasalah](/ticketing/paket-bermasalah/)
 

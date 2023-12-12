@@ -4,15 +4,15 @@ Fitur <b>_Users_</b> memungkinkan pihak admin office untuk melihat, meninjau, da
 
 ## Management Users
 
-Pada halaman ini akan ditampilkan daftar Users/Seller yang terdaftar di platform JuraganCOD.com, baik pengguna aktif/tidak aktif. Berikut adalah informasi detailnya:
+Pada halaman ini akan ditampilkan daftar Users/Seller yang terdaftar di platform JuraganCOD.com, baik pengguna aktif maupun tidak aktif. Berikut adalah informasi detailnya:
 
-- <b>Nama</b> adalah informasi nama pemilik akun terkait
-- <b>Status</b> adalah keterangan akun pengguna apakah Aktif atau Tidak Aktif
-- <b>Username</b> adalah informasi username pemilik akun terkait
-- <b>Verifikasi</b> adalah informasi verifikator akun, apakah akun sudah terverifikasi atau belum
-- <b>Pengguna</b> adalah informasi ????
-- <b>Office</b> adalah informasi ???
-- <b>Personal Data</b> adalah informasi apakah pengguna sudah melengkapi data personal yang dibutuhkan
-- <b>Ekspedisi</b> adalah informasi nama pemilik akun terkait
-- <b>Action</b> adalah aksi yang dapat dilakukan office pada akun Master Seller, contohnya mengubah data seller, mengcopy atau mengapa?????????
+- <b>Nama</b>: Informasi nama pemilik akun terkait
+- <b>Status</b>: Keterangan apakah akun pengguna aktif atau tidak aktif
+- <b>Username</b>: Informasi username pemilik akun terkait
+- <b>Verifikasi</b>: Informasi apakah akun sudah terverifikasi atau belum
+- <b>Pengguna</b>: informasi ????
+- <b>Office</b>: informasi ???
+- <b>Personal Data</b>: Informasi apakah pengguna sudah melengkapi data personal yang dibutuhkan
+- <b>Ekspedisi</b>: Informasi ekspedisi terkait
+- <b>Action</b>: Aksi yang dapat dilakukan office pada akun pengguna, contohnya mengubah data pengguna, mengcopy, atau melakukan aksi lainnya
   ![image](management-user.png)

@@ -1,8 +1,8 @@
 # Rasio
 
-Terdapat 2 fitur pada menu Rasio.
+Terdapat 2 fitur yang tersedia pada menu Rasio.
 
-Dokumentasi dapat dilihat pada menu berikut:
+Dokumentasi dapat ditemukan pada menu berikut:
 
 ### [1. Rasio Member](/rasio/rasio-member/)
 

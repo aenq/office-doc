@@ -1,8 +1,8 @@
 # Resi
 
-Terdapat 5 fitur pada menu Resi.
+Terdapat 5 fitur yang tersedia pada menu Resi.
 
-Please find below the documentation for each of them:
+Dokumentasi dapat ditemukan pada menu berikut:
 
 ### [1. List Resi](/resi/list-resi/)
 

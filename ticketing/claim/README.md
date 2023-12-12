@@ -4,13 +4,13 @@
 
 ### Halaman Utama Claim
 
-Halaman akan menampilkan daftar nomor resi yang mengajukan Claim, berikut informasi detailnya: <br>
+Halaman ini menampilkan daftar nomor resi yang mengajukan Claim, berserta informasi detailnya: <br>
 
-- <b>No. Claim</b> adalah kode unik pengajuan claim
-- <b>Nama</b> adalah informasi akun yang melakukan claim breach
-- <b>Ekspedisi </b> adalah ekspedisi yang melakukan pengantaran paket
-- <b>Status</b> adalah kondisi yang mengacu pada informasi terbaru yang menggambarkan paket tersebut, apakah claim telah diproses, diajukan, atau selesai
-- <b>Ticket</b> dapat digunakan untuk berkomunikasi dengan seller yang mengajukan claim
-- <b>Action</b> adalah aksi yang dapat dilakukan office pada resi yang bermasalah, terdapat juga informasi nomor resi paket
+- <b>No. Claim</b>: Kode unik pengajuan klaim
+- <b>Nama</b>: Informasi mengenai akun yang melakukan claim breach
+- <b>Ekspedisi </b>: Informasi mengenai ekspedisi yang melakukan pengantaran paket
+- <b>Status</b>: Kondisi yang mengacu pada informasi terbaru, apakah klaim telah diproses, diajukan, atau selesai.
+- <b>Ticket</b>: Digunakan untuk berkomunikasi dengan seller yang mengajukan claim
+- <b>Action</b>: Aksi yang dapat dilakukan admin office pada resi yang bermasalah, terdapat juga informasi nomor resi paket.
 
 ![image](claim.png)

@@ -1,8 +1,8 @@
 # Seller
 
-Terdapat 3 fitur pada menu Seller.
+Terdapat 3 fitur yang tersedia pada menu Seller.
 
-Dokumentasi dapat dilihat pada menu berikut:
+Dokumentasi dapat ditemukan pada menu berikut:
 
 ### [1. Master Seller](/seller/master-seller/)
 

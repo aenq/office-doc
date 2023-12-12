@@ -1,8 +1,8 @@
 # Finance
 
-Terdapat 11 fitur pada menu Finance.
+Terdapat 11 fitur yang tersedia pada menu Finance.
 
-Please find below the documentation for each of them:
+Dokumentasi dapat ditemukan pada menu berikut:
 
 ### [1. Transaksi Saldo](/finance/transaksi-saldo/)
 
