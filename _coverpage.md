@@ -2,6 +2,6 @@
 
 # **What's inside JuraganCOD Office?**
 
-> Let's see.
+> Come take a sneak peek!
 
 [Getting Started](dashboard/README.md)
